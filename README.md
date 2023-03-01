@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Gil Camarozano 🖐
+## Olá! Eu sou o Felipe Gil Camarozano, estudante de tecnologia, futuro developer
 
 💼 Trabalho com Telecomunicações
 
