@@ -5,11 +5,12 @@
 👨‍🎓 Estudando HTML/CSS/JavaScript/Salesforce
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gil&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-  <img align="center" alt="Felipe-Js" height="30" width="40" right="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gil&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-SALESFORCE" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+  <img align="center" alt="Felipe-SALESFORCE" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
   
 </div>
 
