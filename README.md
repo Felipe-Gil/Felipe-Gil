@@ -4,13 +4,8 @@
 
 👨‍🎓 Estudando HTML/CSS/JavaScript/Salesforce
 
-<div align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gil&show_icons=true&theme=tokyonight)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gil&layout=compact&langs_count=16&theme=tokyonight"/>
-
-</div>
 
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">         <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
