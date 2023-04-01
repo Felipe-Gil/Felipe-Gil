@@ -1,8 +1,8 @@
-## Olá! Eu sou o Felipe Gil Camarozano, estudante de tecnologia, futuro developer
+## Olá! Eu sou o Felipe Gil Camarozano, estudante de tecnologia, futuro developer!
 
 💼 Trabalho com Telecomunicações
 
-👨‍🎓 Estudando HTML/CSS/JavaScript/Apex
+👨‍🎓 Estudando HTML/CSS/JavaScript/Salesforce
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gil&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegil&anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,7 @@
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-SALESFORCE" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
 </div>
 
 ##
