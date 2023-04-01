@@ -5,7 +5,7 @@
 👨‍🎓 Estudando HTML/CSS/JavaScript/Salesforce
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gil&show_icons=true&theme=tokyonight)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gil&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gil&layout=compact&langs_count=16&theme=tokyonight"/>
 
 <h2> Tecnologias <h2>
   <div style="display: inline_block">
